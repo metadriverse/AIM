@@ -11,7 +11,7 @@ Official release for the code used in the paper: *Robot-Gated Interactive Imitat
 ## Installation
 
 ```bash
-git clone https://github.com/metadriverse/aim
+git clone https://github.com/metadriverse/AIM.git
 cd AIM
 
 # Create Conda environment
